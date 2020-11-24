@@ -1,4 +1,4 @@
-<div id="wrapper" class="outer">
+<div id="wrapper">
   <div id="first" class="inner-pic">
     <img src="https://github.com/redgranitechiropractic/redgranitechiropractic.github.io/blob/master/assets/images/doc.jpg?raw=true" alt="doc" style="width:500px;">
   </div>
