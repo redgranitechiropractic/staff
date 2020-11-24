@@ -10,12 +10,16 @@
     Dr. Boettcher lives in Wautoma with his wife and two children, and enjoys spending time outdoors. Camping, fishing, and hunting are some of his favorite pastimes.
   </div>
   <br><br>
-  <div id="third" class="inner-pic">
-    <img src="https://github.com/redgranitechiropractic/redgranitechiropractic.github.io/blob/master/assets/images/bonnie.jpg?raw=true" alt="bonnie" style="width:500px;">
+  <div class="outer">
+    <div id="third" class="inner-pic">
+      <img src="https://github.com/redgranitechiropractic/redgranitechiropractic.github.io/blob/master/assets/images/bonnie.jpg?raw=true" alt="bonnie" style="width:500px;">
+    </div>
+    <div id="fourth" class="inner-info">
+      Bonnie is an experienced Front Office Manager with a demonstrated history of working in the health wellness and fitness industry. She is skilled in receptionist duties, compassion, data entry, insurance, medical terminology, and healthcare. Bonnie is a strong support professional with a diploma focused in Surgical Technology/Technologist from Moraine Park Technical College. She is a also a member of the ThedaCare Foundation-Berlin and Berlin Emergency Department Campaign boards.
+    </div>
   </div>
-  <div id="fourth" class="inner-info">
-    Bonnie is an experienced Front Office Manager with a demonstrated history of working in the health wellness and fitness industry. She is skilled in receptionist duties, compassion, data entry, insurance, medical terminology, and healthcare. Bonnie is a strong support professional with a diploma focused in Surgical Technology/Technologist from Moraine Park Technical College. She is a also a member of the ThedaCare Foundation-Berlin and Berlin Emergency Department Campaign boards.
-    <br><br>
+  <br><br>
+  <div class="inner">
     Bonnie is a recent empty-nester and is now enjoying more family time and travel. Her two youngest children are in college, and her oldest lives out of state. Some of her favorite activities include boating, campfires, thrifting, decorating, weekend getaways, good conversation, and volunteering.
     <br><br>
     "Chiropractic care has had a big influence on my life. Although I was a surgical technologist, I changed professions to work in the chiropractic field after an illness. My well-being and health has greatly improved due to chiropractic. Advocating for chiropractic care means a lot to me. It is so rewarding to see our patients get well."
