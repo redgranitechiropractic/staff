@@ -10,9 +10,9 @@
     Dr. Boettcher lives in Wautoma with his wife and two children, and enjoys spending time outdoors. Camping, fishing, and hunting are some of his favorite pastimes.
   </div>
 </div>
-</br>
+<br>
 <hr>
-</br>
+<br>
 <div class="outer">
   <div class="inner-pic">
     <img src="https://github.com/redgranitechiropractic/redgranitechiropractic.github.io/blob/master/assets/images/bonnie.jpg?raw=true" alt="bonnie" style="width:500px;">
