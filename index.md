@@ -25,6 +25,9 @@
     "Chiropractic care has had a big influence on my life. Although I was a surgical technologist, I changed professions to work in the chiropractic field after an illness. My well-being and health has greatly improved due to chiropractic. Advocating for chiropractic care means a lot to me. It is so rewarding to see our patients get well."
   </div>
 </div>
+<br>
+<hr>
+<br>
 <div class="outer">
   <div class="inner-pic">
     <img src="https://github.com/redgranitechiropractic/redgranitechiropractic.github.io/blob/master/assets/images/lori.jpg?raw=true" alt="lori" style="width:500px;">
