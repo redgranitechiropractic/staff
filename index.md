@@ -28,4 +28,15 @@
 <br>
 <hr>
 <br>
-
+<div class="outer">
+  <div class="inner-pic">
+  
+  </div>
+  <div class="inner-info">
+   We welcome Angie Tanner as our new massage therapist.
+    <br><br>
+    Bonnie is a recent empty-nester and is now enjoying more family time and travel. Her two youngest children are in college, and her oldest lives out of state. Some of her favorite activities include boating, campfires, thrifting, decorating, weekend getaways, good conversation, and volunteering.
+    <br><br>
+    "Chiropractic care has had a big influence on my life. Although I was a surgical technologist, I changed professions to work in the chiropractic field after an illness. My well-being and health has greatly improved due to chiropractic. Advocating for chiropractic care means a lot to me. It is so rewarding to see our patients get well."
+  </div>
+</div>
