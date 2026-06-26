@@ -28,11 +28,4 @@
 <br>
 <hr>
 <br>
-<div class="outer">
-  <div class="inner-pic">
-    <img src="https://github.com/redgranitechiropractic/redgranitechiropractic.github.io/blob/master/assets/images/lori.jpg?raw=true" alt="lori" style="width:500px;">
-  </div>
-  <div class="inner-info">
-    Lori graduated with a certificate in Professional Massage Training at the Fox Valley School of Massage in Appleton, WI. She established her business in 2001 and has been providing massage therapy services for the past 19 years. She is a member of the American Massage Therapy Association and hopes to help her clients improve their health and wellbeing with her skills.
-  </div>
-</div>
+
