@@ -48,7 +48,7 @@
 <br>
 <div class="outer">
   <div class="inner-pic">
-  <img src="https://github.com/redgranitechiropractic/redgranitechiropractic.github.io/blob/master/assets/images/JennB.jpg?raw=true" alt="JennB" style="width:500px;">
+  <img src="https://github.com/redgranitechiropractic/redgranitechiropractic.github.io/blob/master/assets/images/JennB1.png?raw=true" alt="JennB1" style="width:500px;">
   </div>
   <div class="inner-info">
    We welcome Jenn Buss to our office. Jenn is a Reiki Master and Certified Herbalist. Jenn is the highest level of practitioner and teacher in Reiki, a Japanese energy healing therapy. They act as a conduit for "universal life force energy" to reduce stress and promote healing. Masters have completed all training levels, learned master symbols, and possess the ability to teach and attune new students
