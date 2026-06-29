@@ -1,6 +1,6 @@
 <div class="outer">
   <div class="inner-pic">
-    <img src="https://github.com/redgranitechiropractic/redgranitechiropractic.github.io/blob/master/assets/images/Doc1.png?raw=true" alt="Doc1" style="width:500px;">
+    <img src="https://github.com/redgranitechiropractic/redgranitechiropractic.github.io/blob/master/assets/images/Doc2.png?raw=true" alt="Doc2" style="width:500px;">
   </div>
   <div class="inner-info">
     A Wisconsin native, Eric Boettcher, DC earned Bachelor's Degrees in Biology and Human Biology from the University of Wisconsin - Oshkosh and Logan College of Chiropractic, respectively. After completing his undergraduate studies, Dr. Boettcher then earned his Doctorate degree in Chiropractic from Logan College of Chiropractic in 2004.
@@ -17,7 +17,7 @@
 <br>
 <div class="outer">
   <div class="inner-pic">
-    <img src="https://github.com/redgranitechiropractic/redgranitechiropractic.github.io/blob/master/assets/images/Bonnie1.png?raw=true" alt="Bonnie1" style="width:500px;">
+    <img src="https://github.com/redgranitechiropractic/redgranitechiropractic.github.io/blob/master/assets/images/Bonnie2.png?raw=true" alt="Bonnie2" style="width:500px;">
   </div>
   <div class="inner-info">
     Bonnie is an experienced Front Office Manager with a demonstrated history of working in the health wellness and fitness industry. She is skilled in receptionist duties, compassion, data entry, insurance, medical terminology, and healthcare. Bonnie is a strong support professional with a diploma focused in Surgical Technology/Technologist from Moraine Park Technical College.  
