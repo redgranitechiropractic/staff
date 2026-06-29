@@ -32,7 +32,7 @@
 <br>
 <div class="outer">
   <div class="inner-pic">
-  
+  <img src="https://github.com/redgranitechiropractic/redgranitechiropractic.github.io/blob/master/assets/images/Angie.jpg?raw=true" alt="Angie" style="width:500px;">
   </div>
   <div class="inner-info">
    We welcome Angie Tanner as our new massage therapist. Angie is a registered nurse and loves giving, sharing and making everyone feel special. Angie enjoys crafts crystals and rocks and relaxing by the river.
